@@ -70,7 +70,7 @@ import (
 	"github.com/Azure/go-amqp"
 	routev1 "github.com/openshift/api/route/v1"
 	netv1 "k8s.io/api/networking/v1"
-	policyv1 "k8s.io/api/policy/v1"
+	policyv1 "k8s.io/api/policy/v1beta1"
 	ctrl "sigs.k8s.io/controller-runtime"
 )
 

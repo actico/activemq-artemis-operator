@@ -43,7 +43,7 @@ import (
 	ctrl "sigs.k8s.io/controller-runtime"
 	rtclient "sigs.k8s.io/controller-runtime/pkg/client"
 
-	policyv1 "k8s.io/api/policy/v1"
+	policyv1 "k8s.io/api/policy/v1beta1"
 )
 
 // extra kinds

@@ -65,7 +65,7 @@ import (
 
 	"os"
 
-	policyv1 "k8s.io/api/policy/v1"
+	policyv1 "k8s.io/api/policy/v1beta1"
 )
 
 const (
